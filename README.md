@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zHqjFsRx)
 # Diagnóstico de retomada - Teoria da Computação
 
 Esta atividade serve para mapear o que você já domina sobre linguagens formais, autômatos, gramáticas e computabilidade.
@@ -8,7 +9,7 @@ Responda individualmente. Use suas palavras. Se usar IA depois da primeira tenta
 
 Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi ou não tenho certeza.
 
-- alfabeto:
+- alfabeto: 
 - cadeia:
 - linguagem:
 - gramática:
