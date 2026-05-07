@@ -8,7 +8,7 @@ Responda individualmente. Use suas palavras. Se usar IA depois da primeira tenta
 
 Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi ou não tenho certeza.
 
-- alfabeto:
+- alfabeto: lembro bem
 - cadeia:
 - linguagem:
 - gramática:
